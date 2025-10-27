@@ -9,7 +9,7 @@ https://drive.google.com/file/d/10l2G4HUBxfuKQ8xT1BKUAJbg4XiFUsp_/view?usp=drive
 ---
 
 ## 🖼 대시보드 스크린샷
-<img width="567" height="958" alt="Image" src="https://github.com/user-attachments/assets/3ec5d016-5434-4e02-9cdf-f4f26b0df576" />
+<img width="567" height="958" alt="Image" src="https://github.com/user-attachments/assets/846b31e0-94a2-4a3f-9fba-91ab8e16ec09" />
 
 ---
 
