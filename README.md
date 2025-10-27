@@ -3,6 +3,16 @@
 
 ---
 
+## 🎬 시연 영상
+https://drive.google.com/file/d/10l2G4HUBxfuKQ8xT1BKUAJbg4XiFUsp_/view?usp=drive_link
+
+---
+
+## 🖼 대시보드 스크린샷
+<img width="1919" height="3230" alt="dashboard" src="https://github.com/user-attachments/assets/83ed651d-62c4-423a-9286-5adac566fc92" />
+
+---
+
 ## 📌 1. 프로젝트 개요
 경제 뉴스를 효율적으로 분석하고, 핵심 이슈·감성 흐름을 한눈에 보여주는  
 **AI 경제 뉴스 분석 웹서비스**를 개발했습니다.  
