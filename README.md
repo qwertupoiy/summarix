@@ -8,8 +8,7 @@ https://drive.google.com/file/d/10l2G4HUBxfuKQ8xT1BKUAJbg4XiFUsp_/view?usp=drive
 
 ---
 
-## 🖼 대시보드 스크린샷
-<img width="1500" height="2500" alt="image" src="https://github.com/user-attachments/assets/ad418c9c-9bb6-4164-97e3-4563572a9b72" />
+<img width="954" height="1278" alt="image" src="https://github.com/user-attachments/assets/c43b11a4-01fd-416e-899a-1796d6db96f6" />
 
 ---
 
