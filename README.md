@@ -1,4 +1,4 @@
-# 🧠 B팀 AI기반 경제 뉴스분석 프로젝트
+# 🧠 AI기반 경제 뉴스분석 프로젝트
 **쉽고 빠르게 경제 뉴스의 흐름을 이해할 수 있는 AI기반 웹서비스**
 
 ---
@@ -8,7 +8,7 @@ https://drive.google.com/file/d/10l2G4HUBxfuKQ8xT1BKUAJbg4XiFUsp_/view?usp=drive
 
 ---
 
-<img width="954" height="1278" alt="image" src="https://github.com/user-attachments/assets/c43b11a4-01fd-416e-899a-1796d6db96f6" />
+<img width="954" height="1278" alt="image" src="https://github.com/user-attachments/assets/1d5c502a-2b4a-40e9-a88d-03bf05a470a8" />
 
 ---
 
