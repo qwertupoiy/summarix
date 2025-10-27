@@ -8,8 +8,7 @@ https://drive.google.com/file/d/10l2G4HUBxfuKQ8xT1BKUAJbg4XiFUsp_/view?usp=drive
 
 ---
 
-<img width="954" height="1278" alt="image" src="https://github.com/user-attachments/assets/1d5c502a-2b4a-40e9-a88d-03bf05a470a8" />
-<img width="1919" height="3230" alt="dashboard" src="https://github.com/user-attachments/assets/3c47b974-d035-4832-9aae-e6085af4c08b" />
+<img width="954" height="1278" alt="image" src="https://github.com/user-attachments/assets/3c47b974-d035-4832-9aae-e6085af4c08b" />
 
 
 ---
